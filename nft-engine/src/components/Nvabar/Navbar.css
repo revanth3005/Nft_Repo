@@ -1,0 +1,12 @@
+.Navbar-container{
+    width: 100%;
+    display:flex;
+    justify-content:space-between;
+    
+}
+.logo{
+    padding: 10px;
+    border-radius: 2ch;
+    font-weight: 500;
+    color: tomato;
+}
